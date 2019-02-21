@@ -2,7 +2,7 @@
     "name": "kovcheq/dd-novaposhta-sdk",
     "description": "",
     "license": "MIT",
-    "version": "1.01",
+    "version": "0.0.1",
     "require": {
         "php": ">=5.3.0"
     },
